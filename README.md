@@ -1,1 +1,1 @@
-# Linear-Classification
+# Linear-Class
